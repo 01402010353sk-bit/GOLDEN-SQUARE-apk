@@ -1,0 +1,6 @@
+{
+  "name": "GOLDEN SQUARE",
+  "description": "Free Fire esports custom room hosting, scrim management, team registrations, and non-cash Gold Points wallet platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
